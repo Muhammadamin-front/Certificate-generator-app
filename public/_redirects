@@ -1,0 +1,2 @@
+mkdir -p public
+echo "/api/* https://certificat.onrender.com/api/:splat 200" > public/_redirects
